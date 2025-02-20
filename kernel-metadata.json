@@ -1,0 +1,21 @@
+{
+  "id": "dantheshark/playground-series-s4e11",
+  "id_no": 70160760,
+  "title": "playground-series-s4e11",
+  "code_file": "playground-series-s4e11.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sumansharmadataworld/depression-surveydataset-for-analysis"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s4e11"
+  ],
+  "model_sources": []
+}
